@@ -3,11 +3,8 @@ var typed = new Typed(".typewriter-text",
         strings: [" ",
             "Web Developer",
 
-            " Designer",
-
             "Freelancer",
             
-            "Youtuber"
         ],
         typeSpeed: 100,
         backSpeed: 70,
