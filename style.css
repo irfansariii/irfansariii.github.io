@@ -128,7 +128,6 @@ section{
     place-items: center;
     border-radius: 50%;
     border: 20px solid #ff154c;
-    object-fit: cover;
 }
 
 .home-img img{
